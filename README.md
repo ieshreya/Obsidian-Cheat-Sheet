@@ -43,6 +43,8 @@ Table Cell A  |  Table Cell B
 </details>
 
 ---
+<details>
+  <summary><em><strong>Detailed Cheat Sheet (click to expand)</em></strong></summary>
 
  # Heading 1
  
@@ -124,5 +126,32 @@ Table Cell A  |  Table Cell B
 Table Cell A  |  Table Cell B
 ----          |          ----
 ```
+</details>
+
 
 ---
+
+### General Shortcuts
+Shortcut Key		|		Functions
+:-----------------:|-----------------:
+Ctrl + S|Editor: Saves the file
+Ctrl + N| Creates a new note
+Ctrl + P| Open command pallete
+Ctrl + O | Opens Quick Switcher
+Ctrl + Shift + F  | Search in all files
+Ctrl + G   | Opens graph view
+Ctrl +  Alt + ← | Navigate Back
+Ctrl +  Alt + →← | Navigate forth
+Ctrl + F | Searches current file
+Ctrl + E | Toggle edit/preview modes
+Ctrl + , | Open Settings
+
+### Editing Shortcuts
+Shortcut Key		|		Functions
+:-----------------:|-----------------:
+Ctrl + B | Bold Selected Text
+Ctrl + I | Italicize Selected Text
+Ctrl + K | Insert External Link to Selected Text
+Ctrl + ] | Indent
+Ctrl + `[` | Unindent
+

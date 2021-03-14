@@ -1,5 +1,5 @@
-# Obsidian Cheat Sheet and Shortcut Keys
-*This repository contains all the basic cheatsheets you need to get started to make notes in obsidian.*
+# Obsidian Cheat Sheet and Shortcut Keys 🔮
+*This repository contains all the basic cheatsheets you need to get started to make notes in obsidian. If something's missing, add yours by raising an issue here ;)*
 
 ![](https://i0.wp.com/atoughnut.com/wp-content/uploads/2020/08/Index1.png?resize=768%2C385&ssl=1 )
 
@@ -9,9 +9,9 @@ Word Formatting & Coding Blocks            |  Links, Quotes & Tables
 ![](https://i1.wp.com/atoughnut.com/wp-content/uploads/2020/08/Index2.png?resize=512%2C237&ssl=1)  |  ![](https://i2.wp.com/atoughnut.com/wp-content/uploads/2020/08/Index3.png?resize=512%2C224&ssl=1)
 
 ---
-# Cheat Sheet
+# Cheat Sheet 💻
 <details>
-  <summary><em><strong>Mini Cheat Sheet (click to expand)</em></strong></summary>
+  <summary><em><strong>Mini Cheat Sheet (click to expand) ✨</em></strong></summary>
   
   ``` 
 # Heading 1
@@ -46,7 +46,7 @@ Table Cell A  |  Table Cell B
 
 
 <details>
-  <summary><em><strong>Detailed Cheat Sheet (click to expand)</em></strong></summary>
+  <summary><em><strong>Detailed Cheat Sheet (click to expand) 🔥</em></strong></summary>
 
  # Heading 1
  
@@ -132,9 +132,9 @@ Table Cell A  |  Table Cell B
 
 
 ---
-# Shortcuts
+# Shortcuts ⌨️
 
-### General Shortcuts
+### General Shortcuts 🕹️
 Shortcut Key		|		Functions
 :-----------------:|-----------------:
 Ctrl + S|Editor: Saves the file
@@ -149,7 +149,7 @@ Ctrl + F | Searches current file
 Ctrl + E | Toggle edit/preview modes
 Ctrl + , | Open Settings
 
-### Editing Shortcuts
+### Editing Shortcuts 🕹️
 Shortcut Key		|		Functions
 :-----------------:|-----------------:
 Ctrl + B | Bold Selected Text

@@ -1,4 +1,4 @@
-# Obsidian-Cheat-Sheet
+# Obsidian Cheat Sheet and Shortcut Keys
 *This repository contains all the basic cheatsheets you need to get started to make notes in obsidian.*
 
 ![](https://i0.wp.com/atoughnut.com/wp-content/uploads/2020/08/Index1.png?resize=768%2C385&ssl=1 )
@@ -8,6 +8,8 @@ Word Formatting & Coding Blocks            |  Links, Quotes & Tables
 :-------------------------:|:-------------------------:
 ![](https://i1.wp.com/atoughnut.com/wp-content/uploads/2020/08/Index2.png?resize=512%2C237&ssl=1)  |  ![](https://i2.wp.com/atoughnut.com/wp-content/uploads/2020/08/Index3.png?resize=512%2C224&ssl=1)
 
+---
+# Cheat Sheet
 <details>
   <summary><em><strong>Mini Cheat Sheet (click to expand)</em></strong></summary>
   
@@ -42,7 +44,7 @@ Table Cell A  |  Table Cell B
 ```
 </details>
 
----
+
 <details>
   <summary><em><strong>Detailed Cheat Sheet (click to expand)</em></strong></summary>
 
@@ -130,6 +132,7 @@ Table Cell A  |  Table Cell B
 
 
 ---
+# Shortcuts
 
 ### General Shortcuts
 Shortcut Key		|		Functions

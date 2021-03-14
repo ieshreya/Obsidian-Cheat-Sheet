@@ -9,7 +9,7 @@ Word Formatting & Coding Blocks            |  Links, Quotes & Tables
 ![](https://i1.wp.com/atoughnut.com/wp-content/uploads/2020/08/Index2.png?resize=512%2C237&ssl=1)  |  ![](https://i2.wp.com/atoughnut.com/wp-content/uploads/2020/08/Index3.png?resize=512%2C224&ssl=1)
 
 ---
-# Cheat Sheet 💻
+# Markdown Cheat Sheet 💻
 <details>
   <summary><em><strong>Mini Cheat Sheet (click to expand) ✨</em></strong></summary>
   

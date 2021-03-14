@@ -157,4 +157,12 @@ Ctrl + I | Italicize Selected Text
 Ctrl + K | Insert External Link to Selected Text
 Ctrl + ] | Indent
 Ctrl + `[` | Unindent
+Cmd + D |Delete current line
+Cmd + V  | Duplicate current line
+Cmd + click | Open Note in Current Panel via Link	
+Cmd + shift + click | Open Note in New Panel via Link	
+Default under settings > Hot Keys > Cmd + Alt + -> | Navigate History Forward
+Default under settings > Hot Keys > Cmd + Alt + <- | Navigate History Backward
+
+
 

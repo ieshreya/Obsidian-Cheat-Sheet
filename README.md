@@ -144,7 +144,7 @@ Ctrl + O | Opens Quick Switcher
 Ctrl + Shift + F  | Search in all files
 Ctrl + G   | Opens graph view
 Ctrl +  Alt + ← | Navigate Back
-Ctrl +  Alt + →← | Navigate forth
+Ctrl +  Alt + → | Navigate forth
 Ctrl + F | Searches current file
 Ctrl + E | Toggle edit/preview modes
 Ctrl + , | Open Settings

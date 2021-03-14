@@ -148,6 +148,14 @@ Ctrl +  Alt + → | Navigate forth
 Ctrl + F | Searches current file
 Ctrl + E | Toggle edit/preview modes
 Ctrl + , | Open Settings
+Ctrl + Tab | Next tab
+Ctrl + Shift + Tab | Previous tab
+Alt + Tab | Next App
+Alt + Shift + Tab | Previous App
+Win + Tab | Task View
+Win + Shift + Tab |  Next Window
+
+
 
 ### Editing Shortcuts 🕹️
 Shortcut Key		|		Functions
@@ -157,12 +165,11 @@ Ctrl + I | Italicize Selected Text
 Ctrl + K | Insert External Link to Selected Text
 Ctrl + ] | Indent
 Ctrl + `[` | Unindent
-Cmd + D |Delete current line
-Cmd + V  | Duplicate current line
-Cmd + click | Open Note in Current Panel via Link	
-Cmd + shift + click | Open Note in New Panel via Link	
-Default under settings > Hot Keys > Cmd + Alt + -> | Navigate History Forward
-Default under settings > Hot Keys > Cmd + Alt + <- | Navigate History Backward
+Ctrl + D |Delete current line
+Ctrl + V  | Duplicate current line
+Ctrl + Click | Open Note in Current Panel via Link	
+Ctrl + Shift + Click | Open Note in New Panel via Link	
+
 
 
 

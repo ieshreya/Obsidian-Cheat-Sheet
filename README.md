@@ -22,7 +22,7 @@ Word Formatting & Coding Blocks            |  Links, Quotes & Tables
 
 - Bullet Points
 
--[x] Checklist
+- [x] Checklist
 
 **Bold**
 
@@ -74,7 +74,7 @@ Table Cell A  |  Table Cell B
 
 - [X] Checklist
 
-``` -[x] list  ```
+``` - [x] list  ```
 
 ---
 

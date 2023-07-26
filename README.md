@@ -18,7 +18,7 @@ Word Formatting & Coding Blocks            |  Links, Quotes & Tables
 
 ## Heading 2
 
--- Spacer  
+--- Spacer  
 
 - Bullet Points
 

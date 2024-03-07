@@ -163,6 +163,7 @@ Ctrl + G   | Opens graph view
 Ctrl +  Alt + ← | Navigate Back
 Ctrl +  Alt + → | Navigate forth
 Ctrl + F | Searches current file
+Ctrl + H | Find/Replace in current file
 Ctrl + E | Toggle edit/preview modes
 Ctrl + , | Open Settings
 Ctrl + Tab | Next tab

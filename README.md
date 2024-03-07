@@ -114,6 +114,12 @@ Table Cell A  |  Table Cell B
 
 ---
 
+~~Strikethrough~~
+
+``` ~~this text is crossed out~~```
+
+---
+
 **```Coding Blocks```**
 
 ``` By putting 3 (`) signs before and after the code.  ```

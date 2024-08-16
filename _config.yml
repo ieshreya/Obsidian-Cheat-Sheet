@@ -1,4 +1,5 @@
-theme: alembic-jekyll-theme# plugins:
+theme: alembic-jekyll-theme
+# plugins:
 # - jekyll-remote-theme 
 markdown: kramdown
 

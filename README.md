@@ -20,10 +20,9 @@ Word Formatting, Lists & Blockquotes  | Links, Code Blocks, Tables & Footnotes |
 ![image](https://github.com/user-attachments/assets/3127cf70-2e9b-4e51-b004-c31c7d59b007)         |          ![image](https://github.com/user-attachments/assets/9e8d23cb-465e-4e96-9df3-ed3aa9a64174)
 
 
+--- 
 
-<details>
-
-<summary><h2>💻 Markdown Cheat Sheet (click ▹ to open) </h2></summary> 
+<h2>💻 Markdown Syntax </h2>
 
 
 <em><strong>Quick Overview</em></strong> 
@@ -59,88 +58,103 @@ Table Cell A  |  Table Cell B
 ```
 <em><strong>✨ Detailed Cheat Sheet </em></strong>
 
- # Heading 1
+# Heading 1
  
-```# Heading 1 ```
+```
+# Heading 1
+```
 
----
 
 ## Heading 2
 
-```## Heading 2 ```
-
----
+```
+## Heading 2
+```
 
 **Line Break**
 
-``` ---  ```
-
+```
 ---
+```
 
 - Bullet Points
 
-``` - Bullet  ```
+``` 
+- Bullet 
+```
 
----
 
 - [X] Checklist
 
-``` - [x] list  ```
-
----
+```
+- [x] list 
+```
 
 **Bold**
 
-``` **text**  ```
-
----
+```
+**text**
+```
 
 *Italic*
 
-```  *text* ```
-
----
+```
+*text*
+```
 
 ***Italic Bold***
 
-``` ***text***  ```
+```
+***text***
+```
 
----
+~~Strikethrough~~
+
+```
+~~this text is crossed out~~
+```
 
 **==Highlights==**
 
-``` ==this text is highlighted==```
+```
+==this text is highlighted==
+```
 
----
 
-**```Coding Blocks```**
+**```Code Blocks```**
 
-``` By putting 3 (`) signs before and after the code.  ```
-
----
+```
+By putting 3 (```) signs before and after the code.
+``` code ```
+```
 
 **[[Links]]**
 
-``` [[link]](sources)  ```
+```
+[link](sources)
+```
 
----
-
+Blockquotes
 > Quotes/ Blockquotes
 
-``` > this is a quote.  ```
+```
+> this is a quote.
+```
 
----
+
+Tables
+
 
 Table Cell A  |  Table Cell B
 ----          |          ----
 
 
 ```
-Table Cell A  |  Table Cell B
-----          |          ----
-```
 
-</details>
+| Table Cell A  |  Table Cell B |
+----          |          ----
+
+```
 
 ---
 
@@ -158,12 +172,13 @@ Table Cell A  |  Table Cell B
 | Ctrl + Alt + ← | Navigate Back | Ctrl + V | Duplicate current line |
 | Ctrl + Alt + → | Navigate forth | Ctrl + Click | Open Note in Current Panel via Link |
 | Ctrl + F | Searches current file | Ctrl + Shift + Click | Open Note in New Panel via Link |
-| Ctrl + E | Toggle edit/preview modes | Ctrl + P (Cmd + P on Mac) | Quick Search |
-| Ctrl + , | Open Settings | Ctrl + N (Cmd + N on Mac) | New Note |
-| Ctrl + Tab | Next tab | Ctrl + Shift + D (Cmd + Shift + D on Mac) | Create a Daily Note |
-| Ctrl + Shift + Tab | Previous tab | Ctrl + / (Cmd + / on Mac) | Toggle Command Palette |
-| Alt + Tab | Next App | Ctrl + E (Cmd + E on Mac) | Open Graph View |
-| Alt + Shift + Tab | Previous App | Ctrl + Click (Cmd + Click on Mac) | Open Link in New Pane |
+| Ctrl + H | Find/Replace in current file |Ctrl + P (Cmd + P on Mac) | Quick Search |
+| Ctrl + E | Toggle edit/preview modes | Ctrl + N (Cmd + N on Mac) | New Note |
+| Ctrl + , | Open Settings | Ctrl + Shift + D (Cmd + Shift + D on Mac) | Create a Daily Note |
+| Ctrl + Tab | Next tab | Ctrl + / (Cmd + / on Mac) | Toggle Command Palette |
+| Ctrl + Shift + Tab | Previous tab | Ctrl + E (Cmd + E on Mac) | Open Graph View |
+| Alt + Tab | Next App |  Ctrl + Click (Cmd + Click on Mac) | Open Link in New Pane |
+| Alt + Shift + Tab | Previous App | | |
 | Win + Tab | Task View | | |
 | Win + Shift + Tab | Next Window | | |
 

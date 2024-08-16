@@ -1,29 +1,23 @@
 # Obsidian Cheat Sheet and Shortcut Keys 🔮
 *This repository contains all the basic cheatsheets you need to get started to make notes in obsidian. If something's missing, add yours by raising an issue here ;)*
 
+> I am using the [Things theme](https://github.com/colineckert/obsidian-things) for this tutorial.
 ### Quick Tips
-To Search for a specific note: Use Ctrl + P (Cmd + P on Mac).
-
-For Internal Links: Use `[[note name]]` to create internal links to other notes.
-
-For External Links: Use `[Text](URL)` to create external links.
-
-For Bullet Points: Use `-`, `*`, or `1`.
-
-For Headings: Use `#` (e.g., # Heading 1, ## Heading 2).
-
-For Code Blocks: Wrap text in triple backticks `(```)`.
-
-For Embeds: Use `![[note name]]` to embed another note in your current note.
+- To Search for a specific note: Use Ctrl + P (Cmd + P on Mac).
+- For Internal Links: Use `[[note name]]` to create internal links to other notes.
+- For External Links: Use `[Text](URL)` to create external links.
+- For Bullet Points: Use `-`, `*`, or `1`.
+- For Headings: Use `#` (e.g., # Heading 1, ## Heading 2).
+- For Code Blocks: Wrap text in triple backticks `(```)`.
+- For Embeds: Use `![[note name]]` to embed another note in your current note.
 
 ---
 
-<img src="https://i0.wp.com/atoughnut.com/wp-content/uploads/2020/08/Index1.png?resize=768%2C385&ssl=1" alt="Image Description" style="width: 100%;">
+## Word Formatting, Lists & Blockquotes
+![image](https://github.com/user-attachments/assets/3127cf70-2e9b-4e51-b004-c31c7d59b007)
 
-
-Word Formatting & Coding Blocks            |  Links, Quotes & Tables
-:-------------------------:|:-------------------------:
-<img src="https://i1.wp.com/atoughnut.com/wp-content/uploads/2020/08/Index2.png?resize=512%2C237&ssl=1" alt="Image Description">  |  <img src="https://i2.wp.com/atoughnut.com/wp-content/uploads/2020/08/Index3.png?resize=512%2C224&ssl=1" alt="Image Description">
+## Links, Code Blocks, Tables & Footnotes
+![image](https://github.com/user-attachments/assets/9e8d23cb-465e-4e96-9df3-ed3aa9a64174)
 
 ---
 # Markdown Cheat Sheet 💻

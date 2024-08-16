@@ -1,7 +1,6 @@
-theme: alembic-jekyll-theme
-# plugins:
-# - jekyll-remote-theme 
+theme: minima
 markdown: kramdown
 
+# plugins:
+# - jekyll-remote-theme 
 
-# theme: minima

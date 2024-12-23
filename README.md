@@ -1,4 +1,4 @@
-# 🔮 Obsidian cheat sheet and some useful shortcut keys 
+# 🔮 Obsidian cheat sheet and shortcut keys 
 *This repository contains all the basic cheatsheets you need to get started to make notes in [obsidian](https://obsidian.md/). If something's missing, add yours by raising an issue here :)*
 
 > I am using the [Things theme](https://github.com/colineckert/obsidian-things) for this tutorial.
